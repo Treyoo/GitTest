@@ -1,5 +1,5 @@
-GitÊÇÒ»¸ö°æ±¾¹ÜÀíÈí¼ş
-GitÊÇÃâ·ÑµÄ
+Gitæ˜¯ä¸€ä¸ªç‰ˆæœ¬ç®¡ç†è½¯ä»¶
+Gitæ˜¯å…è´¹çš„
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
