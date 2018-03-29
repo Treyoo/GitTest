@@ -8,4 +8,5 @@ Creating a new branch is quick and simple.
 分支管理策略
 测试git stash
 2018-03-29 22：14
-Bob加入了我们
+Bob加入了我们，并且很快开始了他的工作
+
